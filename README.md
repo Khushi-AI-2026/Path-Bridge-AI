@@ -11,12 +11,15 @@ PathBridge AI is an intellegent multi-agent AI system designed to bridge the gap
 
 ## Project Raodmap & Progress here is the current development status of the project:
 
-#Phase Milestone Status
+### 🗓 Project Roadmap
+Here is the current development status of the project:
 
-**Phase 1 Foundation: UI & PDF Parsing**-[In Progress]
+| Phase | Milestone | Status |
+| :--- | :--- | :--- |
+| **Phase 1** | Foundation: UI & PDF Parsing | ✅ In Progress |
+| **Phase 2** | Intelligence: Gemini API Integration | ⏳ Upcoming |
+| **Phase 3** | Data Management: RAG & Vector DB | ⏳ Upcoming |
+| **Phase 4** | System Core: Multi-Agent (LangGraph) | ⏳ Upcoming |
 
-**Phase 2 Intelligence: Gemini API Integration**-[Upcoming]
+---
 
-**Phase 3 Data Management: RAG & Vector DB** -[Upcoming]
-
-**Phase 4 System Core: Multi-Agent (LangGraph)** -[Upcoming]
